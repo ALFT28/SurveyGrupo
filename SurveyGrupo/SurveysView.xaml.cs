@@ -13,3 +13,4 @@ public partial class SurveysView : ContentPage
 		//Codigo para ver la pagina de los detalles - Agregado por Marcos
 		await Navigation.PushAsync(new SurveyDetailsView());
 	}
+}

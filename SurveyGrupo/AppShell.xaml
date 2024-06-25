@@ -7,9 +7,9 @@
     Shell.FlyoutBehavior="Disabled"
     Title="SurveyGrupo">
 
+    <!--Modificacacion de archivo local y Route: cambio de MainPage a SurveysView realizados por: Marcos -->
     <ShellContent
         Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
-
+        ContentTemplate="{DataTemplate local:SurveysView}" 
+        Route="SurveysView" />
 </Shell>
