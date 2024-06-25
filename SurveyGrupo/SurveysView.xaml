@@ -8,5 +8,11 @@
             Text="Welcome to .NET MAUI!"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
+
+        <!--Button agregado para ver los detalle por Marcos-->
+        <Button Text="+" Clicked="AddSurveyButton_Clicked"/>
+        
+        
+        
     </VerticalStackLayout>
 </ContentPage>
