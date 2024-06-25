@@ -63,6 +63,9 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <MauiXaml Update="SurveyDetailsView.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="SurveysView.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
