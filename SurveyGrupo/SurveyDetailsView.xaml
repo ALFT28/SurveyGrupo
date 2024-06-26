@@ -30,7 +30,7 @@
                     <Button Grid.Column="1" Text="..." Clicked="FavoriteTeamButton_Clicked"/>
                 </Grid>                
             </StackLayout>
-            <Button Text="Aceptar" Grid.Row="1" Clicked="OkButton_Clicked"/>
+            <Button Text="Aceptar" Grid.Row="1" Clicked="FavoriteTeamButton_Clicked"/>
         </Grid>
     </VerticalStackLayout>
 </ContentPage>
