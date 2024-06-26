@@ -1,5 +1,6 @@
 namespace SurveyGrupo;
 
+//Se va a subir de nuevo los cambios
 
 public partial class SurveysView : ContentPage
 {
