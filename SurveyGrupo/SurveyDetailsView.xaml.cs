@@ -27,4 +27,8 @@ public partial class SurveyDetailsView : ContentPage
 			FavoriteTeamLabel.Text = favoriteTeam;
 		}
     }
+
+
+
+
 }
