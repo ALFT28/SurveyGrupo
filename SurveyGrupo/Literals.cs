@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SurveyGrupo
 {
-    class Literals
+    public class Literals
     {
         public const string FavoriteTeamTitle = "Selección de equipo";
     }

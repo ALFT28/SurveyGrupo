@@ -9,7 +9,7 @@
 
     <!--Modificacacion de archivo local y Route: cambio de MainPage a SurveysView realizados por: Marcos -->
     <ShellContent
-        Title="Home"
+        Title="SurveysView"
         ContentTemplate="{DataTemplate local:SurveysView}" 
         Route="SurveysView" />
 </Shell>
